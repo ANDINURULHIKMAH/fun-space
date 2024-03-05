@@ -5,3 +5,4 @@ def luas_segitiga():
     print("Luas segitiga adalah: ", luas)
     
 luas_segitiga()
+# rumus luas segitiga 
