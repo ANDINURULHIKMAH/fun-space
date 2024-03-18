@@ -13,3 +13,4 @@ def luas_persegi_panjang():
     print("Luas persegi adalah: ",luas)
     
 luas_persegi_panjang()
+#menambah rumus baru
