@@ -14,3 +14,8 @@ def luas_persegi_panjang():
     
 luas_persegi_panjang()
 #menambah rumus baru
+def luas_lingkaran():
+    r = int(input("Masukkan r: "))
+    luas = 3.14 * r * r
+    print("Luas", luas)
+luas_lingkaran()
